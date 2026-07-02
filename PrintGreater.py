@@ -7,7 +7,7 @@ def GreaterNo(no1,no2):
 
 def main():
     no1,no2 = int(input("enter first no")),int(input("enter second no"))
-    GreaterNo(10,20)
+    GreaterNo(no1,no2)
 
 if __name__ == "__main__":
     main()
